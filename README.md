@@ -28,7 +28,7 @@ Download : https://slack.com/downloads/osx
 
 ###PCAssist(DBSAFER)
 ```
-DB 계정 신청서 기안을 올린 후 작업이 완료되면 담당자가 Slack을 통해 작업결과를 알려줌. (담당자: 그레이)
+DB 계정 신청서 기안을 올린 후 작업이 완료되면 담당자가 Slack을 통해 작업결과를 알려줌. (담당자: )
 Download(Mac) : https://drive.google.com/a/within.co.kr/file/d/1ayfBvwGnxZCL102PvdmdPSlsRVR0F4FV/view?usp=drive_web
 프로세스 (결재순서)에 2번 승인자를 모두 콥(Cobb)로 하시면 됩니다.
 ```
